@@ -54,9 +54,4 @@ Se você quiser contribuir em algo nesse projeto, siga os passos abaixo:
  - 📒 - [Linkedin](https://www.linkedin.com/in/italo-ferreira-dev/)
 
 Feito com 💜
-=======
-teste
 
-https://user-images.githubusercontent.com/83084631/167985150-160d1a06-ea1a-4aa8-a119-36ca093b34db.mp4
-
->>>>>>> 385249c2f7c16045aebd2b732ac4939c18951576
