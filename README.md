@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#### Switch to english: <kbd>[<img title="English" alt="English" src="./;github/eua.jpg" width="22">](translation/english/README.en.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="./.github/eua.jpg" width="22">](translation/english/README.en.md)</kbd>
 
 
 # 🔎 Indice 
